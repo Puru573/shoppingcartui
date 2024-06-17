@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shoppingcartui/static/css/main.fe2498f0.css",
+    "main.js": "/shoppingcartui/static/js/main.38d4bd4f.js",
+    "static/media/smartphone.jpg": "/shoppingcartui/static/media/smartphone.63eee34bae1ff572bd28.jpg",
+    "static/media/book.jpg": "/shoppingcartui/static/media/book.8b7b88b32dce8a011ce4.jpg",
+    "static/media/speaker.jpg": "/shoppingcartui/static/media/speaker.e5091a1daa8dbb6ac31e.jpg",
+    "static/media/redux.cjs": "/shoppingcartui/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/shoppingcartui/index.html",
+    "main.fe2498f0.css.map": "/shoppingcartui/static/css/main.fe2498f0.css.map",
+    "main.38d4bd4f.js.map": "/shoppingcartui/static/js/main.38d4bd4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2498f0.css",
+    "static/js/main.38d4bd4f.js"
+  ]
+}
