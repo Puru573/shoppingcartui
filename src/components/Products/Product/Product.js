@@ -1,11 +1,5 @@
 import React from 'react'
-import { Link } from "react-router-dom";
-// import { connect } from "react-redux";
 import { useNavigate } from "react-router-dom";
-// import {
-//   loadCurrentItem,
-//   addToCart,
-// } from "../../../redux/Shopping/shopping-actions";
 import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
@@ -34,10 +28,6 @@ function Product2({ product, addToCart, loadCurrentItem }) {
     const handleOnClick = ()=>{
       loadCurrentItem(product);
       Navigate(`/product/${product.id}`)
-      // history.push({
-      //   pathname:`/product/${product.id}`,
-      //   state: product
-      // })
       
     }
     return (
